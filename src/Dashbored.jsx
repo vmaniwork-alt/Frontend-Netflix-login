@@ -77,7 +77,7 @@ const Dashbored = () => {
             loading="lazy"
             className="rounded-lg mb-10 md:max-w-4xl"
           />
-          <div  className="absolute rounded-3xl top-[210px] md:rounded-full  left-12 md:left-20  md:top-[550px] 
+          <div  className=" hidden md:block absolute rounded-3xl top-[210px] md:rounded-full  left-12 md:left-20  md:top-[550px] 
            px-2 py-1 md:px-4 md:py-2 font-medium md:font-semibold
            text-xs md:text-base
             hover:bg-red-500 hover:text-white  bg-white z-10 text-black">          
